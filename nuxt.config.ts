@@ -1,0 +1,2 @@
+defineNuxtConfig({
+})
