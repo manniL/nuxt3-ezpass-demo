@@ -1,3 +1,3 @@
 <template>
-<h1>hi</h1>
+  <h1>This is protected</h1>
 </template>
